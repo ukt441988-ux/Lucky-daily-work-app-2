@@ -1,0 +1,3 @@
+# Daily Work Platform
+
+Initializing project files...
